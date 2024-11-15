@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/11524988-7b96-49c9-9ac1-5eaca3f90e03)![image](https://github.com/user-attachments/assets/4efe80af-397d-4c90-a8fc-d17c8f574cf5)![image](https://github.com/user-attachments/assets/8e18bb38-44d5-4658-812d-91e4c5a49d03)![image](https://github.com/user-attachments/assets/90df4b33-dbe4-457c-8de4-faec868de4b9)# SR-FLIPFLOP-USING-CASE
-
 **AIM:**
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
